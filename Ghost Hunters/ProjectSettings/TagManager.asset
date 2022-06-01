@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ghost
+  - Doors
+  - Doors_Agg
+  - PointLights_AggressionLevel
+  - Player_agg
+  - Interductions
+  - SecondFloorGate
+  - Mirror
+  - Pause
+  - ProtectionCircle
+  - Wall
+  - Item
+  - ProtectionCircleCandleSlot
+  - BoundItem
+  - UV_Revealable
+  - EMFReader
+  - NetworkManager
+  - BOSpawner
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Player
+  - Door
+  - Self
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - DeadPlayer
+  - GhostInvisible
+  - Player1NoView
+  - Player2NoView
+  - Player3NoView
+  - Player4NoView
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

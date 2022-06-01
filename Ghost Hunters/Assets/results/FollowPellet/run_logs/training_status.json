@@ -1,0 +1,47 @@
+{
+    "FollowPellet": {
+        "checkpoints": [
+            {
+                "steps": 379552,
+                "file_path": "results\\FollowPellet\\FollowPellet\\FollowPellet-379552.onnx",
+                "reward": 1.0,
+                "creation_time": 1638510674.9087875,
+                "auxillary_file_paths": [
+                    "results\\FollowPellet\\FollowPellet\\FollowPellet-379552.pt"
+                ]
+            },
+            {
+                "steps": 499999,
+                "file_path": "results\\FollowPellet\\FollowPellet\\FollowPellet-499999.onnx",
+                "reward": 1.0,
+                "creation_time": 1638512891.663521,
+                "auxillary_file_paths": [
+                    "results\\FollowPellet\\FollowPellet\\FollowPellet-499999.pt"
+                ]
+            },
+            {
+                "steps": 500008,
+                "file_path": "results\\FollowPellet\\FollowPellet\\FollowPellet-500008.onnx",
+                "reward": 1.0,
+                "creation_time": 1638512891.725519,
+                "auxillary_file_paths": [
+                    "results\\FollowPellet\\FollowPellet\\FollowPellet-500008.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 500008,
+            "file_path": "results\\FollowPellet\\FollowPellet.onnx",
+            "reward": 1.0,
+            "creation_time": 1638512891.725519,
+            "auxillary_file_paths": [
+                "results\\FollowPellet\\FollowPellet\\FollowPellet-500008.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.27.0",
+        "torch_version": "1.7.1+cu110"
+    }
+}
